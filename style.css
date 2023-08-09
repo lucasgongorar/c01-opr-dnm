@@ -1,11 +1,13 @@
 @charset "UTF-8";
-
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+</style>
 * { margin: 0; padding: 0; }
 
 html, body { min-height: 100%; overflow-x: hidden;}
 
 body {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Poppins, sans-serif;
     color: #222333;
     background: linear-gradient(#eceff1, #cfd8dc);
 }
