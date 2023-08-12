@@ -1,2 +1,2 @@
-# c01-opr-dnm
+# dnm-01
 Trabajo realizado en clases por **Lucas Góngora** 
